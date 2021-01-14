@@ -1,0 +1,1 @@
+In this project, we explored 2 COVID-19-related datasets, and used Google symptoms search trends data to predict weekly COVID-19 new hospitalization cases in different regions across the world. We investigated the performance of 2 regression models, K-nearest neighbours (KNN) and decision trees, and found that KNN achieved better performance than decision trees.
